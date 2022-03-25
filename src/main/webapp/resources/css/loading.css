@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+  }
+  #header {
+    margin: 10vh 10vw 10vh 10vw;
+}
+#contents {
+    margin: 10vh 10vw 10vh 10vw;
+}
+#loading_img_wrap {
+    margin: 30vh ;
+}
+
+
+
+
