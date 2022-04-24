@@ -33,7 +33,10 @@ npain_calulator_backendminiproj
 - SPRING BOOT(GRADLE)
 - DB- MY SQL
 
-![화면 캡처 2022-03-27 021222](https://user-images.githubusercontent.com/92500792/164988135-7dc68453-39f7-4c5e-9659-3100258c5935.jpg)
+
+![화면 캡처 2022-04-25 014203](https://user-images.githubusercontent.com/92500792/164988233-98716db9-05b9-428d-8a85-97047226c5bd.jpg)
+
+
 
 # 사이트 화면
 
